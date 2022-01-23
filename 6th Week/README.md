@@ -1,5 +1,9 @@
 # Telco Customer Churn EDA-Feature Engineering Projesi
-![alt text](https://miro.medium.com/proxy/1*osC29H34Bw19gqYFc6FWcA@2x.jpeg)
+<p align="center">
+  <img src="https://miro.medium.com/proxy/1*osC29H34Bw19gqYFc6FWcA@2x.jpeg">
+  <i>Fotoğraf: https://www.displayr.com/predict-customer-churn-gradient-boosting/<i/>
+</p>
+
 # Özet
 Belirli parametrelere bağlı olarak, özellikleri verilen müşterilerin şirketi terk edip etmeme potansiyelini tahmin edebilecek bir Makine Öğrenmesi modelinin eğitilmesi için veri seti hazır hale getirilmiştir. Proje sonunda, bir telekom şirketindeki müşterilerin şirketi terk etmesinde(Churn) etkili olan değişkenler incelenmiştir. Sonrasında kullanılmak üzere belirli bir örüntüye sahip bir müşterinin şirketi terk etme potansiyelinin hesaplanması için uygun hale getilirmiştir.
 
