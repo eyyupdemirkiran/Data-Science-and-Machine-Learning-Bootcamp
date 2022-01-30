@@ -8,7 +8,7 @@
 </p>
 
 # Özet
-Bu çalışmada, maaş bilgileri ve 1986 yılına ait kariyer istatistikleri paylaşılan beyzbol oyuncularının verileri Lineer Regresyon tekniği kullanılarak maaş tahminlemesi yapılmıştır. Çalışma süresince, oyuncu maaş değişkeninde etkili olan tüm parametreler veri seti çerçevesinde ele alınmış olup, anlamlılıkları incelenmiştir. Çalışma sonunda elde edilen model sayesinde, belirli parametreleri verilen bir oyuncunun maaş tahmini %75 başarı oranında tahmin edilebilmiştir. Elde edilen oyuncu maaş tahmini modeli öncesinde, veri setinin doğru bir şekilde yorumlanabilmesi ve işlenebilmesi için izlenen işlem basamakları sırasıyla şu şekildedir;
+Bu çalışmada, maaş bilgileri ve 1986 yılına ait kariyer istatistikleri paylaşılan beyzbol oyuncularının verileri Lineer Regresyon tekniği kullanılarak maaş tahminlemesi yapılmıştır. Çalışma süresince, oyuncu maaş değişkeninde etkili olan tüm parametreler veri seti çerçevesinde ele alınmış olup, anlamlılıkları incelenmiştir. Çalışma sonunda elde edilen model sayesinde, belirli parametreleri verilen bir oyuncunun maaş tahmini %75 başarı oranında tahmin edilebilmiştir. Model öncesinde, veri setinin doğru bir şekilde yorumlanabilmesi ve işlenebilmesi için izlenen işlem basamakları sırasıyla şu şekildedir;
  * Exploratory Data Analysis (Keşifçi Veri Analizi)
  * Korelasyon Analizi
  * Feature Engineering (Özellik Mühendisliği)
